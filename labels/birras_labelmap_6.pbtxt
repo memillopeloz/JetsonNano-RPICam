@@ -1,0 +1,24 @@
+item {
+    id: 1
+    name: 'Bohemia'
+}
+item {
+    id: 2
+    name: 'Imperial'
+}
+item {
+    id: 3
+    name: 'Imperial_Light'
+}
+item {
+    id: 4
+    name: 'Imperial_Silver'
+}
+item {
+    id: 5
+    name: 'Imperial_Ultra'
+}
+item {
+    id: 6
+    name: 'Pilsen'
+}

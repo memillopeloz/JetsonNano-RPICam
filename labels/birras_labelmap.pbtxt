@@ -1,0 +1,8 @@
+item {
+    id: 1
+    name: 'Pilsen'
+}
+item {
+    id: 2
+    name: 'Imperial'
+}
